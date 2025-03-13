@@ -10,9 +10,9 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  activityName: "0pium MUSIC", 
+  activityType: "PLAYING",  // Available activity types : LISTENING , PLAYING
+  SupportServer: "https://discord.gg/eJpS9yeuV5",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
